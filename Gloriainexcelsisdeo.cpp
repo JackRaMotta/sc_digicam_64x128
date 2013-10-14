@@ -3,6 +3,7 @@ using namespace std;
 
 
 int main(){
-	cout<<"ci";
+	cout<<"ci
+		";
 	return 0;
 }
